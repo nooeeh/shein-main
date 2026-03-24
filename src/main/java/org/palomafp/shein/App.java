@@ -45,6 +45,7 @@ public class App {
                 break;
             case 0:
             System.out.println("Saliendo...");
+            //añadido break
            break;
             default:
                 System.out.println("Introduce un valor válido");
